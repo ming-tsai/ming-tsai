@@ -1,7 +1,7 @@
 ### Hiya 👋
 I'm trying making a 🤖
 <details>
-  <summary>See more fun profiles</summary>
+  <summary>See more awesome profiles</summary>
 
   - [Jaye Hernandez](https://github.com/jayehernandez)
   - [Rubens Mariuzzo](https://github.com/rmariuzzo)
