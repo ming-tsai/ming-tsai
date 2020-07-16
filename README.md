@@ -1,5 +1,5 @@
 ### Hiya 👋
-I'm trying making a 🤖
+I'm trying making a 🤖, a :bug: you will find when click **Hiya** link then scroll up.
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=ming-tsai&show_icons=false)
 
