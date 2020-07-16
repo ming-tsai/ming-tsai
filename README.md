@@ -1,5 +1,8 @@
 ### Hiya 👋
 I'm trying making a 🤖
+
+![My github stats](https://github-readme-stats.vercel.app/api?username=ming-tsai&show_icons=false)
+
 <details>
   <summary>See more awesome profiles</summary>
 
@@ -8,5 +11,3 @@ I'm trying making a 🤖
   - [Leomaris Reyes](https://github.com/LeomarisReyes)
   - [Manuel Cepeda](https://github.com/mecm1993)
 </details>
-
-![My github stats](https://github-readme-stats.vercel.app/api?username=ming-tsai&show_icons=false)
