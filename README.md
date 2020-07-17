@@ -10,4 +10,6 @@ I'm trying making a 🤖, a :bug: you will find when click **Hiya** link then sc
   - [Rubens Mariuzzo](https://github.com/rmariuzzo)
   - [Leomaris Reyes](https://github.com/LeomarisReyes)
   - [Manuel Cepeda](https://github.com/mecm1993)
+  
+  > Accept contributors
 </details>
