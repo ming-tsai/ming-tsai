@@ -13,6 +13,7 @@ I'm trying making a 🤖, a :bug: you will find when click **Hiya** link then sc
   - [Leomaris Reyes](https://github.com/LeomarisReyes)
   - [Manuel Cepeda](https://github.com/mecm1993)
   - [Anmol Pratap Singh](https://github.com/anmol098)
+  - [Anurag Hazra](https://github.com/anuraghazra)
   
   > Accept contributors
 </details>
