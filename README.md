@@ -15,6 +15,8 @@
   <a href="https://sourcerer.io/ming-tsai">
     <img align="left" src="https://sourcerer.io/icons/logo-sharing.svg"height="21px" alt="Sourcerer">
   </a>
+  <br />
+  <br />
 </div>
 
 ### More awesome profiles :cupid:
