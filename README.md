@@ -1,11 +1,21 @@
 ## Hiya 👋
-I'm trying making a 🤖, a :bug: you will find when click **Hiya** link then scroll up.
-
-<p align="center">
+<div style="display:inline-block">
   <a href="https://github.com/anuraghazra/github-readme-stats#customization">
     <img src="https://github-readme-stats.vercel.app/api?username=ming-tsai&show_icons=true&theme=buefy&hide_border=true" />
   </a>
-</p>
+  <br />
+
+  I'm trying making a 🤖, a :bug: you will find when click **Hiya** link then scroll up.
+
+  #### More about me
+
+  <a href="https://www.linkedin.com/in/ming-tsai/">
+    <img align="left" alt="Ming Tsai | LinkedIn" width="21px" src="https://raw.githubusercontent.com/mecm1993/mecm1993/master/assets/linkedin.svg" />
+  </a>
+  <a href="https://sourcerer.io/ming-tsai">
+    <img align="left" src="https://sourcerer.io/icons/logo-sharing.svg"height="21px" alt="Sourcerer">
+  </a>
+</div>
 
 <details>
   <summary>See more awesome profiles</summary>
