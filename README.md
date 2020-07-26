@@ -5,7 +5,7 @@
   </a>
   <br />
 
-  I'm trying making a 🤖, a :bug: you will find when click **Hiya** link then scroll up.
+  I'm trying making a 🤖, a 🐛 you will find when click **Hiya** link then scroll up.
 
   #### More about me
 
@@ -21,7 +21,7 @@
   <br />
 </div>
 
-### More awesome profiles :cupid:
+### More awesome profiles 💘
 <a href="https://github.com/anmol098">
   <img src="https://avatars2.githubusercontent.com/u/15426564?s=60&u=d8328dd0939070360893b3a955f50eb8fd8ac144&v=4" alt="Anmol Pratap Singh">
 </a>
