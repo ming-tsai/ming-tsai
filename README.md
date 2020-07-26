@@ -15,5 +15,5 @@ I'm trying making a 🤖, a :bug: you will find when click **Hiya** link then sc
   - [Anmol Pratap Singh](https://github.com/anmol098)
   - [Anurag Hazra](https://github.com/anuraghazra)
   
-  > Accept contributors
+  > Contributions are welcomed! ❤
 </details>
