@@ -1,7 +1,11 @@
-# Hiya 👋
+## Hiya 👋
 I'm trying making a 🤖, a :bug: you will find when click **Hiya** link then scroll up.
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=ming-tsai&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats#customization)
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats#customization">
+    <img src="https://github-readme-stats.vercel.app/api?username=ming-tsai&show_icons=true&theme=buefy&hide_border=true" />
+  </a>
+</p>
 
 <details>
   <summary>See more awesome profiles</summary>
