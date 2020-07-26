@@ -15,14 +15,9 @@
   <a href="https://sourcerer.io/ming-tsai">
     <img align="left" src="https://sourcerer.io/icons/logo-sharing.svg"height="21px" alt="Sourcerer">
   </a>
-  <br />
-  <br />
-  <br />
-  <br />
 </div>
 
-
-### More awesome profiles
+### More awesome profiles :cupid:
 <a href="https://github.com/anmol098">
   <img src="https://avatars2.githubusercontent.com/u/15426564?s=60&u=d8328dd0939070360893b3a955f50eb8fd8ac144&v=4" alt="Anmol Pratap Singh">
 </a>
