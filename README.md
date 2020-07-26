@@ -21,15 +21,20 @@
   <br />
 </div>
 
-<details>
-  <summary>See more awesome profiles</summary>
 
-  - [Jaye Hernandez](https://github.com/jayehernandez)
-  - [Rubens Mariuzzo](https://github.com/rmariuzzo)
-  - [Leomaris Reyes](https://github.com/LeomarisReyes)
-  - [Manuel Cepeda](https://github.com/mecm1993)
-  - [Anmol Pratap Singh](https://github.com/anmol098)
-  - [Anurag Hazra](https://github.com/anuraghazra)
-  
-  > Contributions are welcomed! ❤
-</details>
+### More awesome profiles
+<a href="https://github.com/anmol098">
+  <img src="https://avatars2.githubusercontent.com/u/15426564?s=50&u=d8328dd0939070360893b3a955f50eb8fd8ac144&v=4" alt="Anmol Pratap Singh">
+</a>
+<a href="https://github.com/anuraghazra">
+  <img src="https://avatars0.githubusercontent.com/u/35374649?s=50&u=1d031ad477ef5f38e1e4ea5474ba5fc29bcbeab9&v=4" alt="Anurag Hazra">
+</a>
+<a href="https://github.com/jayehernandez">
+  <img src="https://avatars3.githubusercontent.com/u/13959651?s=50&u=7c7e8c32a1b6c838daca2b689376539288a8572a&v=4" alt="Jaye Hernandez">
+</a>
+<a href="https://github.com/mecm1993">
+  <img src="https://avatars0.githubusercontent.com/u/8043309?s=50&v=4" alt="Manuel Cepeda">
+</a>
+<br />
+
+> Contributions are welcomed! ❤
