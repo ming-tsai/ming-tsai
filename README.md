@@ -1,7 +1,7 @@
 ## Hiya 👋
 <div style="display:inline-block">
   <a href="https://github.com/anuraghazra/github-readme-stats#customization">
-    <img src="https://github-readme-stats.vercel.app/api?username=ming-tsai&show_icons=true&theme=buefy&hide_border=true" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=ming-tsai&show_icons=true&theme=buefy&hide_border=true" />
   </a>
   <br />
 
@@ -15,6 +15,9 @@
   <a href="https://sourcerer.io/ming-tsai">
     <img align="left" src="https://sourcerer.io/icons/logo-sharing.svg"height="21px" alt="Sourcerer">
   </a>
+  <br />
+  <br />
+  <br />
   <br />
 </div>
 
