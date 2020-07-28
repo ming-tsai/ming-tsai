@@ -34,6 +34,8 @@
 <a href="https://github.com/mecm1993">
   <img src="https://avatars0.githubusercontent.com/u/8043309?s=60&v=4" alt="Manuel Cepeda">
 </a>
+[![James George
+](https://avatars1.githubusercontent.com/u/25279263?s=60&u=4b3389d9cd2e2aa0eab21899cb7e5746a4889e31&v=4)](https://github.com/jamesgeorge007)
 <br />
 
 > Contributions are welcomed! ❤
