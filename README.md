@@ -1,4 +1,4 @@
-## Hiya <img src="https://media.giphy.com/media/Dsa0TmDdDGTZu/giphy.gif" width="50"></h2>
+## Hiya <img align="top" src="https://media.giphy.com/media/Dsa0TmDdDGTZu/giphy.gif" width="50">
 <div style="display:inline-block">
   <a href="https://github.com/anuraghazra/github-readme-stats#customization">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=ming-tsai&show_icons=true&theme=buefy&hide_border=true" />
@@ -21,7 +21,7 @@
   <br />
 </div>
 
-### More awesome profiles 💘
+### More awesome profiles <img align="top" src="https://media.giphy.com/media/1ZDCwrqow6vioQX4Yi/giphy.gif" width="30">
 <a href="https://github.com/anmol098">
   <img src="https://avatars2.githubusercontent.com/u/15426564?s=60&u=d8328dd0939070360893b3a955f50eb8fd8ac144&v=4" alt="Anmol Pratap Singh">
 </a>
