@@ -1,4 +1,4 @@
-## Hiya <img align="top" src="https://media.giphy.com/media/Dsa0TmDdDGTZu/giphy.gif" width="50">
+## Hiya <img align="center" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="50">
 <div style="display:inline-block">
   <a href="https://github.com/anuraghazra/github-readme-stats#customization">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=ming-tsai&show_icons=true&theme=buefy&hide_border=true" />
