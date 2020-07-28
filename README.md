@@ -10,10 +10,10 @@
   #### More about me
 
   <a href="https://www.linkedin.com/in/ming-tsai/">
-    <img align="left" alt="Ming Tsai | LinkedIn" width="21px" src="https://raw.githubusercontent.com/ming-tsai/ming-tsai/master/assets/linkedin.svg" />
+    <img align="left" alt="Ming Tsai | LinkedIn" width="21px" height="21px" src="https://raw.githubusercontent.com/ming-tsai/ming-tsai/master/assets/linkedin.svg" />
   </a>
   <a href="https://sourcerer.io/ming-tsai">
-    <img align="left" src="https://sourcerer.io/icons/logo-sharing.svg"height="21px" alt="Sourcerer">
+    <img align="left" src="https://sourcerer.io/icons/logo-sharing.svg" height="21px" width="21px" alt="Sourcerer">
   </a>
   <br />
   <br />
