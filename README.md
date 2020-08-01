@@ -22,7 +22,6 @@
 </div>
 
 ### More awesome profiles <img align="top" src="https://media.giphy.com/media/1ZDCwrqow6vioQX4Yi/giphy.gif" width="30">
-> List will update at 00:00
 <!--awesome-profiles:start-->
 <a href="https://github.com/mecm1993" target="_blank" rel="noopener noreferrer">
     <img src="https://avatars3.githubusercontent.com/u/8043309?s=60&v=4" alt="Manuel Cepeda">
@@ -40,4 +39,4 @@
 <!--awesome-profiles:end-->
 <br />
 
-> Contributions are welcomed! ❤
+> Contributions are welcomed! ❤, list will update at 00:00
