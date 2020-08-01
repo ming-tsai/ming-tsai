@@ -1,0 +1,23 @@
+name: scraper
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+
+env:
+  NODE_ENV: production
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - name: Setup Node.js environment
+        uses: actions/setup-node@v2.1.1
+      - run: npm i
+      - run: npm run migration
+      - uses: stefanzweifel/git-auto-commit-action@v4.4.0
+        with:
+          commit_message: Schedule update readme
+          branch: master
