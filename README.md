@@ -23,12 +23,6 @@
 
 ### More awesome profiles <img align="top" src="https://media.giphy.com/media/1ZDCwrqow6vioQX4Yi/giphy.gif" width="30">
 <!--awesome-profiles:start-->
-<a href="https://github.com/ming-tsai" target="_blank" rel="noopener noreferrer">
-    <img src="https://avatars0.githubusercontent.com/u/37890026?s=60&u=43559caf43dedba5fb5df816788153b4d2e00f7f&v=4" alt="Ming Tsai">
-</a>
-<a href="https://github.com/mecm1993" target="_blank" rel="noopener noreferrer">
-    <img src="https://avatars3.githubusercontent.com/u/8043309?s=60&v=4" alt="Manuel Cepeda">
-</a>
 
 <!--awesome-profiles:end-->
 <br />
