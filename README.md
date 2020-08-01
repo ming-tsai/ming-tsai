@@ -23,6 +23,18 @@
 
 ### More awesome profiles <img align="top" src="https://media.giphy.com/media/1ZDCwrqow6vioQX4Yi/giphy.gif" width="30">
 <!--awesome-profiles:start-->
+<a href="https://github.com/mecm1993" target="_blank" rel="noopener noreferrer">
+    <img src="https://avatars3.githubusercontent.com/u/8043309?s=60&v=4" alt="Manuel Cepeda">
+</a>
+<a href="https://github.com/anmol098" target="_blank" rel="noopener noreferrer">
+    <img src="https://avatars3.githubusercontent.com/u/15426564?s=60&u=d8328dd0939070360893b3a955f50eb8fd8ac144&v=4" alt="Anmol Pratap Singh">
+</a>
+<a href="https://github.com/anuraghazra" target="_blank" rel="noopener noreferrer">
+    <img src="https://avatars3.githubusercontent.com/u/35374649?s=60&u=1d031ad477ef5f38e1e4ea5474ba5fc29bcbeab9&v=4" alt="Anurag Hazra">
+</a>
+<a href="https://github.com/jayehernandez" target="_blank" rel="noopener noreferrer">
+    <img src="https://avatars3.githubusercontent.com/u/13959651?s=60&u=7c7e8c32a1b6c838daca2b689376539288a8572a&v=4" alt="Jaye Hernandez">
+</a>
 
 <!--awesome-profiles:end-->
 <br />
