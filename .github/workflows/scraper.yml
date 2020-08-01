@@ -2,7 +2,7 @@ name: scraper
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '*/5 * * * *'
 
 env:
   NODE_ENV: production
