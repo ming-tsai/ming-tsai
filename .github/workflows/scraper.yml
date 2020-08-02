@@ -1,8 +1,6 @@
 name: scraper
 
 on:
-  pull_request:
-    types: [merged]
   schedule:
     - cron: '0 0 * * *'
 
