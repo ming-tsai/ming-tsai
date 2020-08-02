@@ -35,6 +35,9 @@
 <a href="https://github.com/jayehernandez" target="_blank" rel="noopener noreferrer">
     <img src="https://avatars3.githubusercontent.com/u/13959651?s=60&u=7c7e8c32a1b6c838daca2b689376539288a8572a&v=4" alt="Jaye Hernandez">
 </a>
+<a href="https://github.com/jamesgeorge007" target="_blank" rel="noopener noreferrer">
+    <img src="https://avatars3.githubusercontent.com/u/25279263?s=60&u=4b3389d9cd2e2aa0eab21899cb7e5746a4889e31&v=4" alt="James George">
+</a>
 
 <!--awesome-profiles:end-->
 <br />
