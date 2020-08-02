@@ -24,7 +24,7 @@ export const parseToHtml = (users: Array<User>) => {
     let result = '';
     users.forEach((u) => {
         result += 
-`<a href="${u.url}" target="_blank" rel="noopener noreferrer">
+`<a href="${u.url}">
     <img src="${u.avatarUrl}" alt="${u.name}">
 </a>
 `
