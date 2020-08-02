@@ -11,18 +11,18 @@ env:
   NODE_ENV: production
   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+
 jobs:
   pr_ci:
     runs-on: ubuntu-latest
 
+    if: github.event_name == 'pull_request' && github.event.action == 'closed' && github.event.pull_request.merged == true
     steps:
       - uses: actions/checkout@v2
       - name: Setup Node.js environment
         uses: actions/setup-node@v2.1.1
       - run: npm i
-      - name: Run migration if is merged
-        if: github.event_name == 'pull_request' && github.event.action == 'closed' && github.event.pull_request.merged == true
-        run: npm run migration
+      - run: npm run migration
       - uses: stefanzweifel/git-auto-commit-action@v4.4.0
         with:
           commit_message: Update readme awesome profiles by pr
