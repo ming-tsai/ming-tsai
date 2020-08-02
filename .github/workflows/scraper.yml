@@ -20,5 +20,5 @@ jobs:
       - run: npm run migration
       - uses: stefanzweifel/git-auto-commit-action@v4.4.0
         with:
-          commit_message: Schedule update readme
+          commit_message: Update readme awesome profiles
           branch: master
