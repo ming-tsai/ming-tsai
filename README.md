@@ -48,4 +48,4 @@
 <!--awesome-profiles:end-->
 <br />
 
-> Contributions are welcomed! ❤
+> Contributions are welcomed! ❤, [add your profile](./src/data/users.ts)
