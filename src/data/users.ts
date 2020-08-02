@@ -4,5 +4,6 @@ export const users = [
     "anuraghazra",
     "jayehernandez",
     "jamesgeorge007",
-    "ChoukseyKhushbu"
+    "ChoukseyKhushbu",
+    "BaseMax"
 ]
