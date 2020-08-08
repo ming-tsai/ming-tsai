@@ -9,15 +9,17 @@ const searchUsers = async (
     fn: (results: SearchUsersQueryResponse) => Promise<void>
 ): Promise<void> => {
     debug(`Searching users:`, { login })
-
-    const results = await client.request<SearchUsersQueryResponse>(searchUserQuery, {
-        login
-    })
-
-    await fn(results);
+    try {
+        const results = await client.request<SearchUsersQueryResponse>(searchUserQuery, {
+            login
+        })
+        await fn(results);
+    } catch (error) {
+        console.log(error);
+    }
 };
 
-const toUser = (source: SearchUsersQueryResponse) : User => {
+const toUser = (source: SearchUsersQueryResponse): User => {
     return {
         avatarUrl: source.user.avatarUrl,
         login: source.user.login,
@@ -28,11 +30,12 @@ const toUser = (source: SearchUsersQueryResponse) : User => {
 
 export const scrapeUsers = async (): Promise<void> => {
     try {
-        for(const user of users)
-        {
-            await searchUsers(user, async(result) => {
-                const u = toUser(result);
-                Users.push(u);
+        for (const user of users) {
+            await searchUsers(user, async (result) => {
+                if (result?.user != null) {
+                    const u = toUser(result);
+                    Users.push(u);
+                }
             })
         }
     } catch (error) {
