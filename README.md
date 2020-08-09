@@ -41,6 +41,15 @@
 <a href="https://github.com/ChoukseyKhushbu">
     <img src="https://avatars2.githubusercontent.com/u/48558044?s=60&u=e5b8301423907004b7b020fccd5cf284eb78fa59&v=4" alt="Khushbu Chouksey">
 </a>
+<a href="https://github.com/ethomson">
+    <img src="https://avatars1.githubusercontent.com/u/1130014?s=60&u=baab4900e651b50553a049146167b9e6b66a8a45&v=4" alt="Edward Thomson">
+</a>
+<a href="https://github.com/eddiejaoude">
+    <img src="https://avatars1.githubusercontent.com/u/624760?s=60&u=676161429a5b3b5841a6a08b5e2baa608840fd57&v=4" alt="Eddie Jaoude">
+</a>
+<a href="https://github.com/M0nica">
+    <img src="https://avatars2.githubusercontent.com/u/6998954?s=60&u=f96fc82764933cefbd15322eca1d4581666325c7&v=4" alt="Monica Powell">
+</a>
 
 <!--awesome-profiles:end-->
 <br />
