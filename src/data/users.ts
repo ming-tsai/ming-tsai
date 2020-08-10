@@ -7,5 +7,6 @@ export const users = [
     "ChoukseyKhushbu",
     "ethomson",
     "eddiejaoude",
-    "m0nica"
+    "m0nica",
+    "pr2tik1"
 ]
