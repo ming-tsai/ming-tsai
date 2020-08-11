@@ -50,6 +50,9 @@
 <a href="https://github.com/M0nica">
     <img src="https://avatars2.githubusercontent.com/u/6998954?s=60&u=f96fc82764933cefbd15322eca1d4581666325c7&v=4" alt="Monica Powell">
 </a>
+<a href="https://github.com/pr2tik1">
+    <img src="https://avatars1.githubusercontent.com/u/34391513?s=60&u=f09f2747d32a034f3c683625ac638fff15a0ec29&v=4" alt="Pratik Kumar">
+</a>
 
 <!--awesome-profiles:end-->
 <br />
