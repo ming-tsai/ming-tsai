@@ -5,7 +5,7 @@
   </a>
   <br />
 
-  I'm trying making a 🤖, a 🐛 you will find when click **Hiya** link then scroll up.
+  I'm trying making a 🤖, a 🐛 you will find when click **Hiya** 🔗 then scroll up.
 
   #### More about me
 
