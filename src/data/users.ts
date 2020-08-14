@@ -8,6 +8,5 @@ export const users = [
     "ethomson",
     "eddiejaoude",
     "m0nica",
-    "pr2tik1",
-    "orhanarifoglu"
+    "pr2tik1"
 ]
