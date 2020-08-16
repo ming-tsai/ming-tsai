@@ -3,4 +3,5 @@ export class User {
     name!: string;
     url!: string;
     login!: string;
+    totalfollowers!: number;
 }
