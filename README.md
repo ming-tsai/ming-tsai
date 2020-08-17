@@ -21,7 +21,7 @@
   <br />
 </div>
 
-### More awesome profiles <img align="top" src="https://media.giphy.com/media/1ZDCwrqow6vioQX4Yi/giphy.gif" width="30">
+### More awesome readme profiles <img align="top" src="https://media.giphy.com/media/1ZDCwrqow6vioQX4Yi/giphy.gif" width="30">
 <!--awesome-profiles:start-->
 <a href="https://github.com/anuraghazra">
     <img src="https://avatars1.githubusercontent.com/u/35374649?u=1d031ad477ef5f38e1e4ea5474ba5fc29bcbeab9&v=4" alt="Anurag Hazra" width="60px" height="60px">
