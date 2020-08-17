@@ -39,7 +39,7 @@ export const scrapeUsers = async (): Promise<void> => {
                 }
             })
         }
-        Users.sort((a, b) => a.totalfollowers - b.totalfollowers);
+        Users.sort((a, b) => b.totalfollowers - a.totalfollowers);
     } catch (error) {
         console.log(error);
     }
