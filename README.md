@@ -66,4 +66,4 @@
 <!--awesome-profiles:end-->
 <br />
 
-> Contributions are welcomed! ❤, [add more profile](https://github.com/ming-tsai/ming-tsai/blob/master/src/data/users.ts)
+> Contributions are welcomed! ❤, [add more profile](https://github.com/ming-tsai/ming-tsai/edit/master/src/data/users.ts)
