@@ -38,9 +38,6 @@
 <a href="https://github.com/jamesgeorge007">
     <img src="https://avatars2.githubusercontent.com/u/25279263?u=4b3389d9cd2e2aa0eab21899cb7e5746a4889e31&v=4" alt="James George" width="60px" height="60px">
 </a>
-<a href="https://github.com/DSchau">
-    <img src="https://avatars1.githubusercontent.com/u/3924690?u=67c66841319410a987cf71cad37cfd8d13740a0b&v=4" alt="Dustin Schau" width="60px" height="60px">
-</a>
 <a href="https://github.com/abhisheknaiidu">
     <img src="https://avatars0.githubusercontent.com/u/55599878?u=20125265c87bbeb0801d57796ccaaed48fc08706&v=4" alt="Abhishek Naidu" width="60px" height="60px">
 </a>
