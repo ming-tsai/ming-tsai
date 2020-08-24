@@ -48,7 +48,7 @@
     <img src="https://avatars3.githubusercontent.com/u/13959651?u=7c7e8c32a1b6c838daca2b689376539288a8572a&v=4" alt="Jaye Hernandez" width="60px" height="60px">
 </a>
 <a href="https://github.com/pr2tik1">
-    <img src="https://avatars2.githubusercontent.com/u/34391513?u=f09f2747d32a034f3c683625ac638fff15a0ec29&v=4" alt="Pratik Kumar" width="60px" height="60px">
+    <img src="https://avatars3.githubusercontent.com/u/34391513?u=876d344d8b59bb6ad16554a082644bf097f5489b&v=4" alt="Pratik Kumar" width="60px" height="60px">
 </a>
 <a href="https://github.com/ChoukseyKhushbu">
     <img src="https://avatars0.githubusercontent.com/u/48558044?u=e5b8301423907004b7b020fccd5cf284eb78fa59&v=4" alt="Khushbu Chouksey" width="60px" height="60px">
