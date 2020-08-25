@@ -41,11 +41,11 @@
 <a href="https://github.com/abhisheknaiidu">
     <img src="https://avatars0.githubusercontent.com/u/55599878?u=20125265c87bbeb0801d57796ccaaed48fc08706&v=4" alt="Abhishek Naidu" width="60px" height="60px">
 </a>
-<a href="https://github.com/anmol098">
-    <img src="https://avatars3.githubusercontent.com/u/15426564?u=d8328dd0939070360893b3a955f50eb8fd8ac144&v=4" alt="Anmol Pratap Singh" width="60px" height="60px">
-</a>
 <a href="https://github.com/jayehernandez">
     <img src="https://avatars3.githubusercontent.com/u/13959651?u=7c7e8c32a1b6c838daca2b689376539288a8572a&v=4" alt="Jaye Hernandez" width="60px" height="60px">
+</a>
+<a href="https://github.com/anmol098">
+    <img src="https://avatars3.githubusercontent.com/u/15426564?u=d8328dd0939070360893b3a955f50eb8fd8ac144&v=4" alt="Anmol Pratap Singh" width="60px" height="60px">
 </a>
 <a href="https://github.com/pr2tik1">
     <img src="https://avatars3.githubusercontent.com/u/34391513?u=876d344d8b59bb6ad16554a082644bf097f5489b&v=4" alt="Pratik Kumar" width="60px" height="60px">
