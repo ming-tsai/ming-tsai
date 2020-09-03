@@ -21,6 +21,11 @@
   <br />
 </div>
 
+<details><summary>Waka Readme</summary>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+</details>
+
 ### More awesome readme profiles <img align="top" src="https://media.giphy.com/media/1ZDCwrqow6vioQX4Yi/giphy.gif" width="30">
 <!--awesome-profiles:start-->
 <a href="https://github.com/anuraghazra">
