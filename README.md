@@ -23,6 +23,37 @@
 
 <details><summary>Waka Readme</summary>
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-80-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 1,072 Contributions in the Year 2020
+ > 
+> 📦 14.8 kB Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 36 Public Repositories
+ > 
+> 🔑 3 Private Repositories 
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               7 repos             ██████████░░░░░░░░░░░░░░░   41.18% 
+Java                     5 repos             ███████░░░░░░░░░░░░░░░░░░   29.41% 
+C#                       3 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65% 
+Vue                      1 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.88% 
+Jupyter Notebook         1 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.88%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://github.com/ming-tsai/ming-tsai/blob/master/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
 </details>
 
