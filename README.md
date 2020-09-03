@@ -22,6 +22,7 @@
 </div>
 
 <details><summary>Waka Readme</summary>
+
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-80-blue)
 
@@ -55,6 +56,7 @@ Jupyter Notebook         1 repos             █░░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
+
 </details>
 
 ### More awesome readme profiles <img align="top" src="https://media.giphy.com/media/1ZDCwrqow6vioQX4Yi/giphy.gif" width="30">
