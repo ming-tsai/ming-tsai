@@ -57,7 +57,7 @@
     <img src="https://avatars1.githubusercontent.com/u/8043309?v=4" alt="Manuel Cepeda" width="60px" height="60px">
 </a>
 <a href="https://github.com/orhanarifoglu">
-    <img src="https://avatars0.githubusercontent.com/u/8739360?u=e570e6e1a6f93ce6d0fb08bbc375b138666f0743&v=4" alt="Orhan" width="60px" height="60px">
+    <img src="https://avatars1.githubusercontent.com/u/8739360?v=4" alt="Orhan" width="60px" height="60px">
 </a>
 
 <!--awesome-profiles:end-->
