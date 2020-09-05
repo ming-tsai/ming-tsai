@@ -97,6 +97,21 @@ Jupyter Notebook         1 repos             █░░░░░░░░░░�
 <a href="https://github.com/orhanarifoglu">
     <img src="https://avatars1.githubusercontent.com/u/8739360?v=4" alt="Orhan" width="60px" height="60px">
 </a>
+<a href="https://github.com/BhuvaneshHingal">
+    <img src="https://avatars3.githubusercontent.com/u/58567847?v=4" alt="Bhuvanesh Hingal" width="60px" height="60px">
+</a>
+<a href="https://github.com/vivmost">
+    <img src="https://avatars2.githubusercontent.com/u/58110469?v=4" alt="Vivek Singh" width="60px" height="60px">
+</a>
+<a href="https://github.com/Meghna-DAS">
+    <img src="https://avatars0.githubusercontent.com/u/55181652?v=4" alt="Meghna Das" width="60px" height="60px">
+</a>
+<a href="https://github.com/praveenscience">
+    <img src="https://avatars1.githubusercontent.com/u/1830380?v=4" alt="Praveen Kumar" width="60px" height="60px">
+</a>
+<a href="https://github.com/VedantKhairnar">
+    <img src="https://avatars0.githubusercontent.com/u/42309779?v=4" alt="Vedant Khairnar" width="60px" height="60px">
+</a>
 
 <!--awesome-profiles:end-->
 <br />
