@@ -67,11 +67,11 @@ Jupyter Notebook         1 repos             █░░░░░░░░░░�
 <a href="https://github.com/M0nica">
     <img src="https://avatars0.githubusercontent.com/u/6998954?u=f96fc82764933cefbd15322eca1d4581666325c7&v=4" alt="Monica Powell" width="60px" height="60px">
 </a>
-<a href="https://github.com/ethomson">
-    <img src="https://avatars2.githubusercontent.com/u/1130014?u=baab4900e651b50553a049146167b9e6b66a8a45&v=4" alt="Edward Thomson" width="60px" height="60px">
-</a>
 <a href="https://github.com/eddiejaoude">
     <img src="https://avatars3.githubusercontent.com/u/624760?v=4" alt="Eddie Jaoude" width="60px" height="60px">
+</a>
+<a href="https://github.com/ethomson">
+    <img src="https://avatars2.githubusercontent.com/u/1130014?u=baab4900e651b50553a049146167b9e6b66a8a45&v=4" alt="Edward Thomson" width="60px" height="60px">
 </a>
 <a href="https://github.com/jamesgeorge007">
     <img src="https://avatars2.githubusercontent.com/u/25279263?u=4b3389d9cd2e2aa0eab21899cb7e5746a4889e31&v=4" alt="James George" width="60px" height="60px">
