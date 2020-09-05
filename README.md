@@ -21,7 +21,7 @@
   <br />
 </div>
 
-<details><summary>Waka Readme</summary>
+<details><summary><strong>Waka Readme</strong></summary>
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-189-blue)
