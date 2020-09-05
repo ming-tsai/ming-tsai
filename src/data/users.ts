@@ -10,10 +10,10 @@ export const users = [
     "m0nica",
     "pr2tik1",
     "orhanarifoglu",
-    "abhisheknaiidu"
-    "BhuvaneshHingal"
-    "vivmost"
-    "Meghna-DAS"
-    "praveenscience"
-    "VedantKhairnar"
+    "abhisheknaiidu",
+    "BhuvaneshHingal",
+    "vivmost",
+    "Meghna-DAS",
+    "praveenscience",
+    "VedantKhairnar",
 ]
