@@ -23,6 +23,7 @@ jobs:
         with:
           commit_message: Update readme awesome profiles
           branch: master
+
   waka-readme:
     name: Update Readme with Metrics
     needs: [scrape]
@@ -34,4 +35,3 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_OS: "False"
           SHOW_PROJECTS: "False"
-          SHOW_EDITORS: "False"
