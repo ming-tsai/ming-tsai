@@ -6,6 +6,12 @@
   <br />
 
   I'm trying making a 🤖. You will find a 🐛 when click **Hiya** 🔗 (on Web)
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
 </div>
 
 <details><summary><strong>Waka Readme</strong></summary>
