@@ -18,7 +18,7 @@
 <details><summary><strong>Waka Readme</strong></summary>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-289-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-308-blue)
 
 **🐱 My Github Data** 
 
