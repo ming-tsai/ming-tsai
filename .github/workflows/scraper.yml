@@ -11,7 +11,7 @@ env:
   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 jobs:
-  update-readme:
+  scrape:
     runs-on: ubuntu-latest
 
     steps:
@@ -20,6 +20,16 @@ jobs:
         uses: actions/setup-node@v2.1.1
       - run: npm i
       - run: npm run migration
+      - uses: stefanzweifel/git-auto-commit-action@v4.4.1
+        with:
+          commit_message: Update readme awesome profiles
+          branch: master
+
+  waka-readme:
+    name: Update Readme with Metrics
+    needs: [scrape]
+    runs-on: ubuntu-latest
+    steps:
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
