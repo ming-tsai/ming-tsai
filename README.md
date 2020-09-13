@@ -79,11 +79,11 @@ Jupyter Notebook         1 repos             █░░░░░░░░░░�
 <a href="https://github.com/jayehernandez">
     <img src="https://avatars3.githubusercontent.com/u/13959651?u=7c7e8c32a1b6c838daca2b689376539288a8572a&v=4" alt="Jaye Hernandez" width="60px" height="60px">
 </a>
-<a href="https://github.com/anmol098">
-    <img src="https://avatars3.githubusercontent.com/u/15426564?u=d8328dd0939070360893b3a955f50eb8fd8ac144&v=4" alt="Anmol Pratap Singh" width="60px" height="60px">
-</a>
 <a href="https://github.com/VedantKhairnar">
     <img src="https://avatars1.githubusercontent.com/u/42309779?u=0756e1c5b65c5e40ec0a4120081a56e97611f460&v=4" alt="Vedant Khairnar" width="60px" height="60px">
+</a>
+<a href="https://github.com/anmol098">
+    <img src="https://avatars3.githubusercontent.com/u/15426564?u=d8328dd0939070360893b3a955f50eb8fd8ac144&v=4" alt="Anmol Pratap Singh" width="60px" height="60px">
 </a>
 <a href="https://github.com/pr2tik1">
     <img src="https://avatars3.githubusercontent.com/u/34391513?u=2a1327d24d263e57f8a762a1f59230a0da5aba80&v=4" alt="Pratik Kumar" width="60px" height="60px">
@@ -94,14 +94,14 @@ Jupyter Notebook         1 repos             █░░░░░░░░░░�
 <a href="https://github.com/mecm1993">
     <img src="https://avatars1.githubusercontent.com/u/8043309?v=4" alt="Manuel Cepeda" width="60px" height="60px">
 </a>
+<a href="https://github.com/vivmost">
+    <img src="https://avatars2.githubusercontent.com/u/58110469?u=4e20afeb762a20dace76b7c51623e872e20b2c0c&v=4" alt="Vivek Singh" width="60px" height="60px">
+</a>
 <a href="https://github.com/Meghna-DAS">
     <img src="https://avatars3.githubusercontent.com/u/55181652?v=4" alt="Meghna Das" width="60px" height="60px">
 </a>
 <a href="https://github.com/BhuvaneshHingal">
     <img src="https://avatars0.githubusercontent.com/u/58567847?u=e4a0232ccef2dd7f9a6aad395f4945d9b9e0002e&v=4" alt="Bhuvanesh Hingal" width="60px" height="60px">
-</a>
-<a href="https://github.com/vivmost">
-    <img src="https://avatars2.githubusercontent.com/u/58110469?u=4e20afeb762a20dace76b7c51623e872e20b2c0c&v=4" alt="Vivek Singh" width="60px" height="60px">
 </a>
 
 <!--awesome-profiles:end-->
