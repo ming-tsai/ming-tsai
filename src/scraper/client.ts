@@ -1,4 +1,7 @@
 import { GraphQLClient } from 'graphql-request'
+import { Headers } from 'cross-fetch';
+
+global.Headers = global.Headers || Headers;
 
 require('dotenv').config();
 
