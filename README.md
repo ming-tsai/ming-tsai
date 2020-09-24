@@ -86,7 +86,7 @@ Jupyter Notebook         1 repos             █░░░░░░░░░░�
     <img src="https://avatars3.githubusercontent.com/u/15426564?u=d8328dd0939070360893b3a955f50eb8fd8ac144&v=4" alt="Anmol Pratap Singh" width="60px" height="60px">
 </a>
 <a href="https://github.com/pr2tik1">
-    <img src="https://avatars3.githubusercontent.com/u/34391513?u=2a1327d24d263e57f8a762a1f59230a0da5aba80&v=4" alt="Pratik Kumar" width="60px" height="60px">
+    <img src="https://avatars2.githubusercontent.com/u/34391513?u=95a1fe31a3ca081db13fc97cefa1c14aa1ccb97b&v=4" alt="Pratik Kumar" width="60px" height="60px">
 </a>
 <a href="https://github.com/ChoukseyKhushbu">
     <img src="https://avatars0.githubusercontent.com/u/48558044?u=e5b8301423907004b7b020fccd5cf284eb78fa59&v=4" alt="Khushbu Chouksey" width="60px" height="60px">
