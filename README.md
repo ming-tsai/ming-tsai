@@ -18,11 +18,11 @@
 <details><summary><strong>Waka Readme</strong></summary>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-59-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-53-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 1,286 Contributions in the Year 2020
+> 🏆 1,293 Contributions in the Year 2020
  > 
 > 📦 17.9 kB Used in Github's Storage 
  > 
