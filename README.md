@@ -18,13 +18,13 @@
 <details><summary><strong>Waka Readme</strong></summary>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 1,364 Contributions in the Year 2020
+> 🏆 1,366 Contributions in the Year 2020
  > 
-> 📦 18.5 kB Used in Github's Storage 
+> 📦 18.7 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -39,7 +39,7 @@ TypeScript               7 repos             █████████░░�
 Java                     5 repos             ███████░░░░░░░░░░░░░░░░░░   27.78% 
 C#                       3 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
 Vue                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
-Jupyter Notebook         1 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.56%
+Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.56%
 
 ```
 
