@@ -103,6 +103,9 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 <a href="https://github.com/Meghna-DAS">
     <img src="https://avatars3.githubusercontent.com/u/55181652?v=4" alt="Meghna Das" width="60px" height="60px">
 </a>
+<a href="https://github.com/TGTGamer">
+    <img src="https://avatars3.githubusercontent.com/u/11413796?v=4" alt="Jonathan S" width="60px" height="60px">
+</a>
 
 <!--awesome-profiles:end-->
 <br />
