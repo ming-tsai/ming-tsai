@@ -29,21 +29,20 @@ const toUser = (source: SearchUsersQueryResponse): User => {
     };
 }
 
-export const scrapeUsers = async (): Promise<void> => {
+export const scrapeUsers = async (): Promise<Array<User>> => {
+    let result: Array<User> = [];
     try {
         for (const user of users) {
-            await searchUsers(user, async (result) => {
-                if (result?.user != null) {
-                    const u = toUser(result);
-                    Users.push(u);
+            await searchUsers(user, async (res) => {
+                if (res?.user != null) {
+                    const u = toUser(res);
+                    result.push(u);
                 }
             })
         }
-        console.log(Users);
-        Users.sort((a, b) => b.stargazerCount - a.stargazerCount);
+        result.sort((a, b) => b.stargazerCount - a.stargazerCount);
     } catch (error) {
         console.log(error);
     }
+    return result;
 }
-
-export const Users = new Array<User>();
