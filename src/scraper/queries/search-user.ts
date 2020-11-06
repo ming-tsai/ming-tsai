@@ -5,9 +5,10 @@ query searchUser($login: String!) {
     name
     url
     login
-    followers {
-      totalCount
-    }
+  }
+  repository(name: $login, owner: $login) {
+    forkCount
+    stargazerCount
   }
 }
 `;
@@ -18,8 +19,8 @@ export type SearchUsersQueryResponse = {
     name: string,
     url: string,
     login: string,
-    followers: {
-      totalCount: number,
-    }
+  },
+  repository: {
+    stargazerCount: number
   }
 };

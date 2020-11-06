@@ -25,7 +25,7 @@ const toUser = (source: SearchUsersQueryResponse): User => {
         login: source.user.login,
         name: source.user.name,
         url: source.user.url,
-        totalfollowers: source.user.followers.totalCount,
+        stargazerCount: source.repository.stargazerCount,
     };
 }
 
@@ -39,7 +39,8 @@ export const scrapeUsers = async (): Promise<void> => {
                 }
             })
         }
-        Users.sort((a, b) => b.totalfollowers - a.totalfollowers);
+        console.log(Users);
+        Users.sort((a, b) => b.stargazerCount - a.stargazerCount);
     } catch (error) {
         console.log(error);
     }
