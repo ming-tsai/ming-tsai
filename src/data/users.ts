@@ -15,5 +15,6 @@ export const users = [
     "Meghna-DAS",
     "praveenscience",
     "VedantKhairnar",
-    "tgtgamer"
+    "tgtgamer",
+    "ming-tsai",
 ]
