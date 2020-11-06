@@ -18,7 +18,7 @@
 <details><summary><strong>Waka Readme</strong></summary>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-24-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-27-blue)
 
 **🐱 My Github Data** 
 
@@ -35,8 +35,8 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    158 commits    ██████░░░░░░░░░░░░░░░░░░░   25.4% 
-🌆 Daytime    222 commits    █████████░░░░░░░░░░░░░░░░   35.69% 
+🌞 Morning    157 commits    ██████░░░░░░░░░░░░░░░░░░░   25.24% 
+🌆 Daytime    223 commits    █████████░░░░░░░░░░░░░░░░   35.85% 
 🌃 Evening    235 commits    █████████░░░░░░░░░░░░░░░░   37.78% 
 🌙 Night      7 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.13%
 
@@ -48,9 +48,9 @@ Monday       67 commits     ██░░░░░░░░░░░░░░░�
 Tuesday      64 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.29% 
 Wednesday    55 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.84% 
 Thursday     78 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.54% 
-Friday       72 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.58% 
+Friday       73 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.74% 
 Saturday     91 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.63% 
-Sunday       195 commits    ███████░░░░░░░░░░░░░░░░░░   31.35%
+Sunday       194 commits    ███████░░░░░░░░░░░░░░░░░░   31.19%
 
 ```
 
@@ -91,53 +91,56 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 ### More awesome readme profiles <img align="top" src="https://media.giphy.com/media/1ZDCwrqow6vioQX4Yi/giphy.gif" width="30">
 <!--awesome-profiles:start-->
+<a href="https://github.com/anmol098">
+    <img src="https://avatars3.githubusercontent.com/u/15426564?u=d8328dd0939070360893b3a955f50eb8fd8ac144&v=4" alt="Anmol Pratap Singh" width="60px" height="60px">
+</a>
 <a href="https://github.com/anuraghazra">
     <img src="https://avatars1.githubusercontent.com/u/35374649?u=1d031ad477ef5f38e1e4ea5474ba5fc29bcbeab9&v=4" alt="Anurag Hazra" width="60px" height="60px">
-</a>
-<a href="https://github.com/M0nica">
-    <img src="https://avatars0.githubusercontent.com/u/6998954?u=f96fc82764933cefbd15322eca1d4581666325c7&v=4" alt="Monica Powell" width="60px" height="60px">
-</a>
-<a href="https://github.com/eddiejaoude">
-    <img src="https://avatars3.githubusercontent.com/u/624760?v=4" alt="Eddie Jaoude" width="60px" height="60px">
-</a>
-<a href="https://github.com/ethomson">
-    <img src="https://avatars2.githubusercontent.com/u/1130014?u=baab4900e651b50553a049146167b9e6b66a8a45&v=4" alt="Edward Thomson" width="60px" height="60px">
-</a>
-<a href="https://github.com/jamesgeorge007">
-    <img src="https://avatars2.githubusercontent.com/u/25279263?u=4b3389d9cd2e2aa0eab21899cb7e5746a4889e31&v=4" alt="James George" width="60px" height="60px">
-</a>
-<a href="https://github.com/praveenscience">
-    <img src="https://avatars3.githubusercontent.com/u/1830380?u=74697d8b1cbf3e16adec7b411369afbd53ce4864&v=4" alt="Praveen Kumar" width="60px" height="60px">
 </a>
 <a href="https://github.com/abhisheknaiidu">
     <img src="https://avatars0.githubusercontent.com/u/55599878?u=20125265c87bbeb0801d57796ccaaed48fc08706&v=4" alt="Abhishek Naidu" width="60px" height="60px">
 </a>
-<a href="https://github.com/jayehernandez">
-    <img src="https://avatars3.githubusercontent.com/u/13959651?u=7c7e8c32a1b6c838daca2b689376539288a8572a&v=4" alt="Jaye Hernandez" width="60px" height="60px">
-</a>
-<a href="https://github.com/VedantKhairnar">
-    <img src="https://avatars1.githubusercontent.com/u/42309779?u=0756e1c5b65c5e40ec0a4120081a56e97611f460&v=4" alt="Vedant Khairnar" width="60px" height="60px">
-</a>
-<a href="https://github.com/anmol098">
-    <img src="https://avatars3.githubusercontent.com/u/15426564?u=d8328dd0939070360893b3a955f50eb8fd8ac144&v=4" alt="Anmol Pratap Singh" width="60px" height="60px">
+<a href="https://github.com/M0nica">
+    <img src="https://avatars0.githubusercontent.com/u/6998954?u=f96fc82764933cefbd15322eca1d4581666325c7&v=4" alt="Monica Powell" width="60px" height="60px">
 </a>
 <a href="https://github.com/pr2tik1">
     <img src="https://avatars2.githubusercontent.com/u/34391513?u=38a3e93dba7eca09470ef1cefbfb59751d4d3d80&v=4" alt="Pratik Kumar" width="60px" height="60px">
 </a>
-<a href="https://github.com/ChoukseyKhushbu">
-    <img src="https://avatars0.githubusercontent.com/u/48558044?u=e5b8301423907004b7b020fccd5cf284eb78fa59&v=4" alt="Khushbu Chouksey" width="60px" height="60px">
+<a href="https://github.com/jayehernandez">
+    <img src="https://avatars3.githubusercontent.com/u/13959651?u=7c7e8c32a1b6c838daca2b689376539288a8572a&v=4" alt="Jaye Hernandez" width="60px" height="60px">
+</a>
+<a href="https://github.com/eddiejaoude">
+    <img src="https://avatars3.githubusercontent.com/u/624760?v=4" alt="Eddie Jaoude" width="60px" height="60px">
+</a>
+<a href="https://github.com/praveenscience">
+    <img src="https://avatars3.githubusercontent.com/u/1830380?u=74697d8b1cbf3e16adec7b411369afbd53ce4864&v=4" alt="Praveen Kumar" width="60px" height="60px">
+</a>
+<a href="https://github.com/ethomson">
+    <img src="https://avatars2.githubusercontent.com/u/1130014?u=baab4900e651b50553a049146167b9e6b66a8a45&v=4" alt="Edward Thomson" width="60px" height="60px">
+</a>
+<a href="https://github.com/VedantKhairnar">
+    <img src="https://avatars1.githubusercontent.com/u/42309779?u=0756e1c5b65c5e40ec0a4120081a56e97611f460&v=4" alt="Vedant Khairnar" width="60px" height="60px">
+</a>
+<a href="https://github.com/ming-tsai">
+    <img src="https://avatars1.githubusercontent.com/u/37890026?u=43559caf43dedba5fb5df816788153b4d2e00f7f&v=4" alt="Ming Tsai" width="60px" height="60px">
+</a>
+<a href="https://github.com/jamesgeorge007">
+    <img src="https://avatars2.githubusercontent.com/u/25279263?u=4b3389d9cd2e2aa0eab21899cb7e5746a4889e31&v=4" alt="James George" width="60px" height="60px">
 </a>
 <a href="https://github.com/mecm1993">
     <img src="https://avatars1.githubusercontent.com/u/8043309?v=4" alt="Manuel Cepeda" width="60px" height="60px">
+</a>
+<a href="https://github.com/Meghna-DAS">
+    <img src="https://avatars3.githubusercontent.com/u/55181652?v=4" alt="Meghna Das" width="60px" height="60px">
+</a>
+<a href="https://github.com/ChoukseyKhushbu">
+    <img src="https://avatars0.githubusercontent.com/u/48558044?u=e5b8301423907004b7b020fccd5cf284eb78fa59&v=4" alt="Khushbu Chouksey" width="60px" height="60px">
 </a>
 <a href="https://github.com/BhuvaneshHingal">
     <img src="https://avatars0.githubusercontent.com/u/58567847?u=e4a0232ccef2dd7f9a6aad395f4945d9b9e0002e&v=4" alt="Bhuvanesh Hingal" width="60px" height="60px">
 </a>
 <a href="https://github.com/vivmost">
     <img src="https://avatars1.githubusercontent.com/u/58110469?u=0a8b82d97b10ffc1e5fc50334963863875ef2055&v=4" alt="Vivek Singh" width="60px" height="60px">
-</a>
-<a href="https://github.com/Meghna-DAS">
-    <img src="https://avatars3.githubusercontent.com/u/55181652?v=4" alt="Meghna Das" width="60px" height="60px">
 </a>
 <a href="https://github.com/TGTGamer">
     <img src="https://avatars3.githubusercontent.com/u/11413796?v=4" alt="Jonathan S" width="60px" height="60px">
