@@ -18,13 +18,13 @@
 <details><summary><strong>Waka Readme</strong></summary>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-106-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-107-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 1,492 Contributions in the Year 2020
+> 🏆 1,495 Contributions in the Year 2020
  > 
-> 📦 23.4 kB Used in Github's Storage 
+> 📦 23.5 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -37,8 +37,8 @@
 ```text
 🌞 Morning    148 commits    ██████░░░░░░░░░░░░░░░░░░░   23.79% 
 🌆 Daytime    224 commits    █████████░░░░░░░░░░░░░░░░   36.01% 
-🌃 Evening    246 commits    ██████████░░░░░░░░░░░░░░░   39.55% 
-🌙 Night      4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.64%
+🌃 Evening    247 commits    ██████████░░░░░░░░░░░░░░░   39.71% 
+🌙 Night      3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.48%
 
 ```
 📅 **I'm Most Productive on Sunday** 
