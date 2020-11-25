@@ -22,9 +22,9 @@
 
 **🐱 My Github Data** 
 
-> 🏆 1,534 Contributions in the Year 2020
+> 🏆 1,535 Contributions in the Year 2020
  > 
-> 📦 17.6 kB Used in Github's Storage 
+> 📦 18.1 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -36,8 +36,8 @@
 
 ```text
 🌞 Morning    146 commits    █████░░░░░░░░░░░░░░░░░░░░   23.47% 
-🌆 Daytime    222 commits    █████████░░░░░░░░░░░░░░░░   35.69% 
-🌃 Evening    253 commits    ██████████░░░░░░░░░░░░░░░   40.68% 
+🌆 Daytime    221 commits    █████████░░░░░░░░░░░░░░░░   35.53% 
+🌃 Evening    254 commits    ██████████░░░░░░░░░░░░░░░   40.84% 
 🌙 Night      1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.16%
 
 ```
@@ -82,7 +82,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 **Timeline**
 
-![Chart not found](https://github.com/ming-tsai/ming-tsai/blob/master/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/ming-tsai/ming-tsai/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
