@@ -5,7 +5,7 @@
   </a>
   <br />
 
-  I'm trying making a 🤖. You will find a 🐛 when click **Hiya** 🔗 (on Web)
+  I'm trying making a 🤖.
   <br />
   <br />
   <br />
