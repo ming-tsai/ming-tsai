@@ -134,14 +134,14 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 <a href="https://github.com/Meghna-DAS">
     <img src="https://avatars.githubusercontent.com/u/55181652?v=4" alt="Meghna Das" width="60px" height="60px">
 </a>
+<a href="https://github.com/paulsonjpaul">
+    <img src="https://avatars.githubusercontent.com/u/73777251?u=1ef1d028c0505b34dd18dd23b576085689b29670&v=4" alt="Paulson J Paul" width="60px" height="60px">
+</a>
 <a href="https://github.com/ChoukseyKhushbu">
     <img src="https://avatars.githubusercontent.com/u/48558044?u=e5b8301423907004b7b020fccd5cf284eb78fa59&v=4" alt="Khushbu Chouksey" width="60px" height="60px">
 </a>
 <a href="https://github.com/BhuvaneshHingal">
     <img src="https://avatars.githubusercontent.com/u/58567847?u=e4a0232ccef2dd7f9a6aad395f4945d9b9e0002e&v=4" alt="Bhuvanesh Hingal" width="60px" height="60px">
-</a>
-<a href="https://github.com/paulsonjpaul">
-    <img src="https://avatars.githubusercontent.com/u/73777251?u=1ef1d028c0505b34dd18dd23b576085689b29670&v=4" alt="Paulson J Paul" width="60px" height="60px">
 </a>
 <a href="https://github.com/vivmost">
     <img src="https://avatars.githubusercontent.com/u/58110469?u=924559a3040e7ad0c16f3ce3e148644f6034ff35&v=4" alt="Vivek Singh" width="60px" height="60px">
