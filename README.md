@@ -3,17 +3,9 @@
   <a href="https://github.com/anuraghazra/github-readme-stats#customization">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=ming-tsai&show_icons=true&theme=buefy&hide_border=true" />
   </a>
-  <br />
-
-  I'm trying making a 🤖.
-  <br />
-  <br />
-  <br />
-  <br />
-  <br />
-  <br />
-  <br />
-  <br />
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ming-tsai&theme=buefy" />
+  </a>
 </div>
 
 <details><summary><strong>Waka Readme</strong></summary>
