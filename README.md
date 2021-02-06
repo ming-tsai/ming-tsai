@@ -1,13 +1,8 @@
 ## Hiya <img align="center" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="50">
-<div style="display:inline-block">
-  <a  align="left" href="https://github.com/anuraghazra/github-readme-stats#customization">
-    <img src="https://github-readme-stats.vercel.app/api?username=ming-tsai&show_icons=true&theme=buefy&hide_border=true" />
-  </a>
-  <br>
-  <a align="right" href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ming-tsai&theme=buefy&hide_border=true" />
-  </a>
-</div>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api?username=ming-tsai&show_icons=true&theme=buefy&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-streak-stats.herokuapp.com/?user=ming-tsai&theme=buefy&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
 
 <details><summary><strong>Waka Readme</strong></summary>
 
