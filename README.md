@@ -7,11 +7,11 @@
 <details><summary><strong>Waka Readme</strong></summary>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-84-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-83-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 224 Contributions in the Year 2021
+> 🏆 225 Contributions in the Year 2021
  > 
 > 📦 19.5 kB Used in Github's Storage 
  > 
@@ -38,8 +38,8 @@ Tuesday      76 commits     ███░░░░░░░░░░░░░░�
 Wednesday    60 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.65% 
 Thursday     91 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.63% 
 Friday       79 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.7% 
-Saturday     77 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.38% 
-Sunday       172 commits    ███████░░░░░░░░░░░░░░░░░░   27.65%
+Saturday     76 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.22% 
+Sunday       173 commits    ███████░░░░░░░░░░░░░░░░░░   27.81%
 
 ```
 
