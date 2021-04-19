@@ -110,14 +110,14 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 <a href="https://github.com/ethomson">
     <img src="https://avatars.githubusercontent.com/u/1130014?u=baab4900e651b50553a049146167b9e6b66a8a45&v=4" alt="Edward Thomson" width="60px" height="60px">
 </a>
+<a href="https://github.com/jamesgeorge007">
+    <img src="https://avatars.githubusercontent.com/u/25279263?u=4b3389d9cd2e2aa0eab21899cb7e5746a4889e31&v=4" alt="James George" width="60px" height="60px">
+</a>
 <a href="https://github.com/VedantKhairnar">
     <img src="https://avatars.githubusercontent.com/u/42309779?u=0756e1c5b65c5e40ec0a4120081a56e97611f460&v=4" alt="Vedant Khairnar" width="60px" height="60px">
 </a>
 <a href="https://github.com/ming-tsai">
     <img src="https://avatars.githubusercontent.com/u/37890026?u=43559caf43dedba5fb5df816788153b4d2e00f7f&v=4" alt="Ming Tsai" width="60px" height="60px">
-</a>
-<a href="https://github.com/jamesgeorge007">
-    <img src="https://avatars.githubusercontent.com/u/25279263?u=4b3389d9cd2e2aa0eab21899cb7e5746a4889e31&v=4" alt="James George" width="60px" height="60px">
 </a>
 <a href="https://github.com/Meghna-DAS">
     <img src="https://avatars.githubusercontent.com/u/55181652?v=4" alt="Meghna Das" width="60px" height="60px">
