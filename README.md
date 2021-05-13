@@ -101,6 +101,9 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 <a href="https://github.com/jayehernandez">
     <img src="https://avatars.githubusercontent.com/u/13959651?u=7c7e8c32a1b6c838daca2b689376539288a8572a&v=4" alt="Jaye Hernandez" width="60px" height="60px">
 </a>
+<a href="https://github.com/gargakshit">
+    <img src="https://avatars.githubusercontent.com/u/15605299?u=e424225b7795e522558a7812dd71443c4e6f3667&v=4" alt="Akshit Garg" width="60px" height="60px">
+</a>
 <a href="https://github.com/DenverCoder1">
     <img src="https://avatars.githubusercontent.com/u/20955511?u=5bbdbfe0199b05d6ca913fb799236c8beedcd192&v=4" alt="Jonah Lawrence" width="60px" height="60px">
 </a>
@@ -119,11 +122,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 <a href="https://github.com/ming-tsai">
     <img src="https://avatars.githubusercontent.com/u/37890026?u=43559caf43dedba5fb5df816788153b4d2e00f7f&v=4" alt="Ming Tsai" width="60px" height="60px">
 </a>
-<a href="https://github.com/Meghna-DAS">
-    <img src="https://avatars.githubusercontent.com/u/55181652?v=4" alt="Meghna Das" width="60px" height="60px">
-</a>
 <a href="https://github.com/mecm1993">
     <img src="https://avatars.githubusercontent.com/u/8043309?v=4" alt="Manuel Cepeda" width="60px" height="60px">
+</a>
+<a href="https://github.com/Meghna-DAS">
+    <img src="https://avatars.githubusercontent.com/u/55181652?v=4" alt="Meghna Das" width="60px" height="60px">
 </a>
 <a href="https://github.com/paulsonjpaul">
     <img src="https://avatars.githubusercontent.com/u/73777251?u=1ef1d028c0505b34dd18dd23b576085689b29670&v=4" alt="Paulson J Paul" width="60px" height="60px">
