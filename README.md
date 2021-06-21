@@ -99,11 +99,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 <a href="https://github.com/eddiejaoude">
     <img src="https://avatars.githubusercontent.com/u/624760?v=4" alt="Eddie Jaoude" width="60px" height="60px">
 </a>
-<a href="https://github.com/jayehernandez">
-    <img src="https://avatars.githubusercontent.com/u/13959651?u=7c7e8c32a1b6c838daca2b689376539288a8572a&v=4" alt="Jaye Hernandez" width="60px" height="60px">
-</a>
 <a href="https://github.com/DenverCoder1">
     <img src="https://avatars.githubusercontent.com/u/20955511?u=5bbdbfe0199b05d6ca913fb799236c8beedcd192&v=4" alt="Jonah Lawrence" width="60px" height="60px">
+</a>
+<a href="https://github.com/jayehernandez">
+    <img src="https://avatars.githubusercontent.com/u/13959651?u=7c7e8c32a1b6c838daca2b689376539288a8572a&v=4" alt="Jaye Hernandez" width="60px" height="60px">
 </a>
 <a href="https://github.com/gargakshit">
     <img src="https://avatars.githubusercontent.com/u/15605299?u=e424225b7795e522558a7812dd71443c4e6f3667&v=4" alt="Akshit Garg" width="60px" height="60px">
