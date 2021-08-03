@@ -7,11 +7,11 @@
 <details><summary><strong>Waka Readme</strong></summary>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 1,025 Contributions in the Year 2021
+> 🏆 1,026 Contributions in the Year 2021
  > 
 > 📦 31.9 kB Used in Github's Storage 
  > 
@@ -37,9 +37,9 @@ Monday       77 commits     ██░░░░░░░░░░░░░░░�
 Tuesday      129 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.55% 
 Wednesday    110 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.55% 
 Thursday     139 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.6% 
-Friday       156 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.39% 
+Friday       155 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.28% 
 Saturday     120 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.61% 
-Sunday       221 commits    █████░░░░░░░░░░░░░░░░░░░░   23.21%
+Sunday       222 commits    █████░░░░░░░░░░░░░░░░░░░░   23.32%
 
 ```
 
@@ -74,7 +74,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ming-tsai/ming-tsai/master/charts/bar_graph.png) 
 
 
- Last Updated on 02/08/2021
+ Last Updated on 03/08/2021
 <!--END_SECTION:waka-->
 
 </details>
