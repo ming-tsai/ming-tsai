@@ -1,4 +1,4 @@
-Hi, I'm Ming Tsai. I'm a software engineer with 3.9 years of experience in frontend and backend development, software architecture, DevOps, and Agile methodology.
+Hi, I'm Ming Tsai. I'm a software engineer with 4 years of experience in frontend and backend development, software architecture, DevOps, and Agile methodology.
 
 My last project is a platform that helps the teams to follow up the data integration.
 
