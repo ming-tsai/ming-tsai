@@ -147,6 +147,9 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 <a href="https://github.com/TGTGamer">
     <img src="https://avatars.githubusercontent.com/u/11413796?v=4" alt="Jonathan S" width="60px" height="60px">
 </a>
+<a href="https://github.com/Mo-Shakib">
+    <img src="https://avatars.githubusercontent.com/u/50780268?u=1d9184f965d25b829dd8e1a75c980de5d0fd5723&v=4" alt="Mohammad Shakib" width="60px" height="60px">
+</a>
 
 <!--awesome-profiles:end-->
 <br />
