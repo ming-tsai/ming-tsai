@@ -132,6 +132,9 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 <a href="https://github.com/mecm1993">
     <img src="https://avatars.githubusercontent.com/u/8043309?v=4" alt="Manuel Cepeda" width="60px" height="60px">
 </a>
+<a href="https://github.com/Mo-Shakib">
+    <img src="https://avatars.githubusercontent.com/u/50780268?u=1d9184f965d25b829dd8e1a75c980de5d0fd5723&v=4" alt="Mohammad Shakib" width="60px" height="60px">
+</a>
 <a href="https://github.com/ChoukseyKhushbu">
     <img src="https://avatars.githubusercontent.com/u/48558044?u=e5b8301423907004b7b020fccd5cf284eb78fa59&v=4" alt="Khushbu Chouksey" width="60px" height="60px">
 </a>
@@ -140,9 +143,6 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 </a>
 <a href="https://github.com/Amisha-Mohapatra">
     <img src="https://avatars.githubusercontent.com/u/68538660?u=35b3e3a15aa2903462e37a1be3c0f47adbea101d&v=4" alt="Amisha Mohapatra" width="60px" height="60px">
-</a>
-<a href="https://github.com/Mo-Shakib">
-    <img src="https://avatars.githubusercontent.com/u/50780268?u=1d9184f965d25b829dd8e1a75c980de5d0fd5723&v=4" alt="Mohammad Shakib" width="60px" height="60px">
 </a>
 <a href="https://github.com/vivmost">
     <img src="https://avatars.githubusercontent.com/u/58110469?u=6d1f13d58562cf0bf0678205e03d16c010c86f19&v=4" alt="Vivek Singh" width="60px" height="60px">
