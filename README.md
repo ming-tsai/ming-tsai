@@ -7,13 +7,13 @@
 <details><summary><strong>Waka Readme</strong></summary>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-22-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-26-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 59 Contributions in the Year 2022
+> 🏆 69 Contributions in the Year 2022
  > 
-> 📦 39.7 kB Used in GitHub's Storage 
+> 📦 39.9 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -33,13 +33,13 @@
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday       102 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.43% 
-Tuesday      151 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.44% 
-Wednesday    125 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.78% 
+Monday       101 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.33% 
+Tuesday      152 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.54% 
+Wednesday    127 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.99% 
 Thursday     141 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.42% 
 Friday       158 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.16% 
-Saturday     126 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.88% 
-Sunday       175 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.89%
+Saturday     125 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.78% 
+Sunday       174 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.79%
 
 ```
 
@@ -74,7 +74,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ming-tsai/ming-tsai/master/charts/bar_graph.png) 
 
 
- Last Updated on 18/01/2022
+ Last Updated on 21/01/2022 00:27:48 UTC
 <!--END_SECTION:waka-->
 
 </details>
