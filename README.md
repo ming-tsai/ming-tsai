@@ -82,7 +82,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ### More awesome readme profiles <img align="top" src="https://media.giphy.com/media/1ZDCwrqow6vioQX4Yi/giphy.gif" width="30">
 <!--awesome-profiles:start-->
 <a href="https://github.com/anmol098">
-    <img src="https://avatars.githubusercontent.com/u/15426564?u=d8328dd0939070360893b3a955f50eb8fd8ac144&v=4" alt="Anmol Pratap Singh" width="60px" height="60px">
+    <img src="https://avatars.githubusercontent.com/u/15426564?u=5b0a7a4764c8aa9f554cb3dea4a3eae2b7b6a8ec&v=4" alt="Anmol Singh" width="60px" height="60px">
 </a>
 <a href="https://github.com/abhisheknaiidu">
     <img src="https://avatars.githubusercontent.com/u/55599878?u=20125265c87bbeb0801d57796ccaaed48fc08706&v=4" alt="Abhishek Naidu" width="60px" height="60px">
