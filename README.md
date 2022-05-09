@@ -96,7 +96,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
     <img src="https://avatars.githubusercontent.com/u/35374649?u=3125539259bebd2d8af05462a37f22a4fba763e4&v=4" alt="Anurag Hazra" width="60px" height="60px">
 </a>
 <a href="https://github.com/pr2tik1">
-    <img src="https://avatars.githubusercontent.com/u/34391513?u=e0f8dde92fae468403a53d3b1dcd960d366bbeff&v=4" alt="Pratik Kumar" width="60px" height="60px">
+    <img src="https://avatars.githubusercontent.com/u/34391513?u=4fb7b548dbb05f3795a157462a5f74000af12e39&v=4" alt="Pratik Kumar" width="60px" height="60px">
 </a>
 <a href="https://github.com/eddiejaoude">
     <img src="https://avatars.githubusercontent.com/u/624760?v=4" alt="Eddie Jaoude" width="60px" height="60px">
@@ -104,11 +104,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 <a href="https://github.com/M0nica">
     <img src="https://avatars.githubusercontent.com/u/6998954?u=78ef436473b15f90ae2a50e64883ebf39c0c1b1d&v=4" alt="Monica Powell" width="60px" height="60px">
 </a>
-<a href="https://github.com/jayehernandez">
-    <img src="https://avatars.githubusercontent.com/u/13959651?u=7c7e8c32a1b6c838daca2b689376539288a8572a&v=4" alt="Jaye Hernandez" width="60px" height="60px">
-</a>
 <a href="https://github.com/JayantGoel001">
     <img src="https://avatars.githubusercontent.com/u/54479676?u=52c05b3b0c1ec7fea0a4520334e5d93e9b02e22e&v=4" alt="Jayant Goel" width="60px" height="60px">
+</a>
+<a href="https://github.com/jayehernandez">
+    <img src="https://avatars.githubusercontent.com/u/13959651?u=7c7e8c32a1b6c838daca2b689376539288a8572a&v=4" alt="Jaye Hernandez" width="60px" height="60px">
 </a>
 <a href="https://github.com/gargakshit">
     <img src="https://avatars.githubusercontent.com/u/15605299?u=e424225b7795e522558a7812dd71443c4e6f3667&v=4" alt="Akshit Garg" width="60px" height="60px">
