@@ -13,7 +13,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 813 Contributions in the Year 2022
+> 🏆 816 Contributions in the Year 2022
  > 
 > 📦 40.4 kB Used in GitHub's Storage 
  > 
@@ -23,42 +23,6 @@
  > 
 > 🔑 5 Private Repositories  
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    195 commits    ██████░░░░░░░░░░░░░░░░░░░   24.25% 
-🌆 Daytime    216 commits    ██████░░░░░░░░░░░░░░░░░░░   26.87% 
-🌃 Evening    390 commits    ████████████░░░░░░░░░░░░░   48.51% 
-🌙 Night      3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.37%
-
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday       91 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.32% 
-Tuesday      144 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.91% 
-Wednesday    95 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.82% 
-Thursday     118 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.68% 
-Friday       118 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.68% 
-Saturday     102 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.69% 
-Sunday       136 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.92%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: America/La_Paz
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -76,7 +40,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ming-tsai/ming-tsai/master/charts/bar_graph.png) 
 
 
- Last Updated on 04/09/2022 00:53:22 UTC
+ Last Updated on 05/09/2022 01:02:09 UTC
 <!--END_SECTION:waka-->
 
 </details>
