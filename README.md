@@ -86,11 +86,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 <a href="https://github.com/anmol098">
     <img src="https://avatars.githubusercontent.com/u/15426564?u=5b0a7a4764c8aa9f554cb3dea4a3eae2b7b6a8ec&v=4" alt="Anmol Singh" width="60px" height="60px">
 </a>
-<a href="https://github.com/DenverCoder1">
-    <img src="https://avatars.githubusercontent.com/u/20955511?u=5bbdbfe0199b05d6ca913fb799236c8beedcd192&v=4" alt="Jonah Lawrence" width="60px" height="60px">
-</a>
 <a href="https://github.com/abhisheknaiidu">
     <img src="https://avatars.githubusercontent.com/u/55599878?u=20125265c87bbeb0801d57796ccaaed48fc08706&v=4" alt="Abhishek Naidu" width="60px" height="60px">
+</a>
+<a href="https://github.com/DenverCoder1">
+    <img src="https://avatars.githubusercontent.com/u/20955511?u=5bbdbfe0199b05d6ca913fb799236c8beedcd192&v=4" alt="Jonah Lawrence" width="60px" height="60px">
 </a>
 <a href="https://github.com/anuraghazra">
     <img src="https://avatars.githubusercontent.com/u/35374649?u=3125539259bebd2d8af05462a37f22a4fba763e4&v=4" alt="Anurag Hazra" width="60px" height="60px">
@@ -122,20 +122,20 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 <a href="https://github.com/ming-tsai">
     <img src="https://avatars.githubusercontent.com/u/37890026?u=43559caf43dedba5fb5df816788153b4d2e00f7f&v=4" alt="Ming Tsai" width="60px" height="60px">
 </a>
-<a href="https://github.com/AvidCoder101">
-    <img src="https://avatars.githubusercontent.com/u/70807684?u=35117e14f65e47d1f81505691372d124491a4f71&v=4" alt="AvidCoder" width="60px" height="60px">
-</a>
 <a href="https://github.com/ethomson">
     <img src="https://avatars.githubusercontent.com/u/1130014?u=fba98e9b0c56df115175b294898cf38f108c3f4f&v=4" alt="Edward Thomson" width="60px" height="60px">
+</a>
+<a href="https://github.com/AvidCoder101">
+    <img src="https://avatars.githubusercontent.com/u/70807684?u=35117e14f65e47d1f81505691372d124491a4f71&v=4" alt="AvidCoder" width="60px" height="60px">
 </a>
 <a href="https://github.com/VedantKhairnar">
     <img src="https://avatars.githubusercontent.com/u/42309779?u=0756e1c5b65c5e40ec0a4120081a56e97611f460&v=4" alt="Vedant Khairnar" width="60px" height="60px">
 </a>
-<a href="https://github.com/Arsenic-ATG">
-    <img src="https://avatars.githubusercontent.com/u/54987647?u=ba8199750601f23e24e03d35714fdb97dbbdbf03&v=4" alt="Arsenic" width="60px" height="60px">
-</a>
 <a href="https://github.com/Mo-Shakib">
     <img src="https://avatars.githubusercontent.com/u/50780268?u=b9a073a8d1cd4c042f52d4739a2fe71c86610938&v=4" alt="Mohammad Shakib" width="60px" height="60px">
+</a>
+<a href="https://github.com/Arsenic-ATG">
+    <img src="https://avatars.githubusercontent.com/u/54987647?u=ba8199750601f23e24e03d35714fdb97dbbdbf03&v=4" alt="Arsenic" width="60px" height="60px">
 </a>
 <a href="https://github.com/Meghna-DAS">
     <img src="https://avatars.githubusercontent.com/u/55181652?u=5a98470282e26e8610d9551dfd6e2122a336a79f&v=4" alt="Meghna Das" width="60px" height="60px">
