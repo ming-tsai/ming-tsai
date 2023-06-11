@@ -87,7 +87,7 @@ Assembly                 1 repo              █░░░░░░░░░░�
     <img src="https://avatars.githubusercontent.com/u/20955511?u=5bbdbfe0199b05d6ca913fb799236c8beedcd192&v=4" alt="Jonah Lawrence" width="60px" height="60px">
 </a>
 <a href="https://github.com/abhisheknaiidu">
-    <img src="https://avatars.githubusercontent.com/u/55599878?u=20125265c87bbeb0801d57796ccaaed48fc08706&v=4" alt="Abhishek Naidu" width="60px" height="60px">
+    <img src="https://avatars.githubusercontent.com/u/55599878?u=3a30be778eb401a1f8ee15a3d80fd721c33d8eed&v=4" alt="Abhishek Naidu" width="60px" height="60px">
 </a>
 <a href="https://github.com/anuraghazra">
     <img src="https://avatars.githubusercontent.com/u/35374649?u=3125539259bebd2d8af05462a37f22a4fba763e4&v=4" alt="Anurag Hazra" width="60px" height="60px">
