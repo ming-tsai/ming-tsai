@@ -96,7 +96,7 @@ Assembly                 1 repo              █░░░░░░░░░░�
     <img src="https://avatars.githubusercontent.com/u/624760?u=745ab278247f5babf08c1bcae7db3284be830a21&v=4" alt="Eddie Jaoude" width="60px" height="60px">
 </a>
 <a href="https://github.com/pr2tik1">
-    <img src="https://avatars.githubusercontent.com/u/34391513?u=158f9a4642cfffca3357ffe846995f16fcd2c89d&v=4" alt="Pratik Kumar" width="60px" height="60px">
+    <img src="https://avatars.githubusercontent.com/u/34391513?u=f7c75bb368ee1cb58c2821753a623013a66a3ef8&v=4" alt="Pratik Kumar" width="60px" height="60px">
 </a>
 <a href="https://github.com/M0nica">
     <img src="https://avatars.githubusercontent.com/u/6998954?u=78ef436473b15f90ae2a50e64883ebf39c0c1b1d&v=4" alt="Monica Powell" width="60px" height="60px">
