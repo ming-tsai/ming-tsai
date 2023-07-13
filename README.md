@@ -126,7 +126,7 @@ Assembly                 1 repo              █░░░░░░░░░░�
     <img src="https://avatars.githubusercontent.com/u/37890026?u=43559caf43dedba5fb5df816788153b4d2e00f7f&v=4" alt="Ming Tsai" width="60px" height="60px">
 </a>
 <a href="https://github.com/Mo-Shakib">
-    <img src="https://avatars.githubusercontent.com/u/50780268?u=b9a073a8d1cd4c042f52d4739a2fe71c86610938&v=4" alt="Mohammad Shakib" width="60px" height="60px">
+    <img src="https://avatars.githubusercontent.com/u/50780268?u=b9a073a8d1cd4c042f52d4739a2fe71c86610938&v=4" alt="Mohamed Shakib" width="60px" height="60px">
 </a>
 <a href="https://github.com/AvidCoder101">
     <img src="https://avatars.githubusercontent.com/u/70807684?u=35117e14f65e47d1f81505691372d124491a4f71&v=4" alt="AvidCoder" width="60px" height="60px">
@@ -140,14 +140,14 @@ Assembly                 1 repo              █░░░░░░░░░░�
 <a href="https://github.com/mecm1993">
     <img src="https://avatars.githubusercontent.com/u/8043309?v=4" alt="Manuel Cepeda" width="60px" height="60px">
 </a>
+<a href="https://github.com/TGTGamer">
+    <img src="https://avatars.githubusercontent.com/u/11413796?v=4" alt="Jonathan S" width="60px" height="60px">
+</a>
 <a href="https://github.com/ChoukseyKhushbu">
     <img src="https://avatars.githubusercontent.com/u/48558044?u=e5b8301423907004b7b020fccd5cf284eb78fa59&v=4" alt="Khushbu Chouksey" width="60px" height="60px">
 </a>
 <a href="https://github.com/BhuvaneshHingal">
     <img src="https://avatars.githubusercontent.com/u/58567847?u=a326a2c8d5dcd311130910db488f7732d24caf25&v=4" alt="Bhuvanesh Hingal" width="60px" height="60px">
-</a>
-<a href="https://github.com/TGTGamer">
-    <img src="https://avatars.githubusercontent.com/u/11413796?v=4" alt="Jonathan S" width="60px" height="60px">
 </a>
 <a href="https://github.com/Amisha-Mohapatra">
     <img src="https://avatars.githubusercontent.com/u/68538660?u=35b3e3a15aa2903462e37a1be3c0f47adbea101d&v=4" alt="Amisha Mohapatra" width="60px" height="60px">
