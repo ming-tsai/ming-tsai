@@ -126,7 +126,7 @@ Assembly                 1 repo              █░░░░░░░░░░�
     <img src="https://avatars.githubusercontent.com/u/42309779?u=0756e1c5b65c5e40ec0a4120081a56e97611f460&v=4" alt="Vedant Khairnar" width="60px" height="60px">
 </a>
 <a href="https://github.com/Mo-Shakib">
-    <img src="https://avatars.githubusercontent.com/u/50780268?u=b9a073a8d1cd4c042f52d4739a2fe71c86610938&v=4" alt="Mohamed Shakib" width="60px" height="60px">
+    <img src="https://avatars.githubusercontent.com/u/50780268?u=3c427e51a98d0becef84d5d23790e40ab23786e0&v=4" alt="Mohamed Shakib" width="60px" height="60px">
 </a>
 <a href="https://github.com/AvidCoder101">
     <img src="https://avatars.githubusercontent.com/u/70807684?u=35117e14f65e47d1f81505691372d124491a4f71&v=4" alt="AvidCoder" width="60px" height="60px">
