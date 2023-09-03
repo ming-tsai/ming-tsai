@@ -129,7 +129,7 @@ Assembly                 1 repo              █░░░░░░░░░░�
     <img src="https://avatars.githubusercontent.com/u/50780268?u=3c427e51a98d0becef84d5d23790e40ab23786e0&v=4" alt="Mohamed Shakib" width="60px" height="60px">
 </a>
 <a href="https://github.com/AvidCoder101">
-    <img src="https://avatars.githubusercontent.com/u/70807684?u=35117e14f65e47d1f81505691372d124491a4f71&v=4" alt="AvidCoder" width="60px" height="60px">
+    <img src="https://avatars.githubusercontent.com/u/70807684?u=ed829f7a150655e54c9dd44557123507a5363f1b&v=4" alt="AvidCoder" width="60px" height="60px">
 </a>
 <a href="https://github.com/Arsenic-ATG">
     <img src="https://avatars.githubusercontent.com/u/54987647?u=ba8199750601f23e24e03d35714fdb97dbbdbf03&v=4" alt="Arsenic" width="60px" height="60px">
