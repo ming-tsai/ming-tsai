@@ -7,15 +7,13 @@
 <details><summary><strong>Waka Readme</strong></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 49.5 kB Used in GitHub's Storage 
  > 
-> 🏆 720 Contributions in the Year 2023
+> 🏆 722 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -23,39 +21,6 @@
  > 
 > 🔑 6 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                849 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
-🌆 Daytime                1604 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
-🌃 Evening                11090 commits       ████████████████████░░░░░   81.09 % 
-🌙 Night                  134 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   1751 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
-Tuesday                  1843 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
-Wednesday                1776 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
-Thursday                 1912 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
-Friday                   2022 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
-Saturday                 1859 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
-Sunday                   2514 commits        █████░░░░░░░░░░░░░░░░░░░░   18.38 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/La_Paz
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -73,7 +38,7 @@ Assembly                 1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ming-tsai/ming-tsai/master/assets/bar_graph.png)
 
 
- Last Updated on 06/12/2023 00:40:51 UTC
+ Last Updated on 07/12/2023 00:40:20 UTC
 <!--END_SECTION:waka-->
 
 </details>
