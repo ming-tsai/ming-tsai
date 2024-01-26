@@ -111,7 +111,7 @@ Assembly                 1 repo              █░░░░░░░░░░�
     <img src="https://avatars.githubusercontent.com/u/15605299?u=e424225b7795e522558a7812dd71443c4e6f3667&v=4" alt="Akshit Garg" width="60px" height="60px">
 </a>
 <a href="https://github.com/praveenscience">
-    <img src="https://avatars.githubusercontent.com/u/1830380?u=74697d8b1cbf3e16adec7b411369afbd53ce4864&v=4" alt="Praveen Kumar Purushothaman" width="60px" height="60px">
+    <img src="https://avatars.githubusercontent.com/u/1830380?u=23ab8a7dce9a437c9c763bf3fa5deb7aba1e64c5&v=4" alt="Praveen Kumar Purushothaman" width="60px" height="60px">
 </a>
 <a href="https://github.com/jamesgeorge007">
     <img src="https://avatars.githubusercontent.com/u/25279263?u=4b3389d9cd2e2aa0eab21899cb7e5746a4889e31&v=4" alt="James George" width="60px" height="60px">
