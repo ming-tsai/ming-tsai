@@ -9,13 +9,11 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 50.1 kB Used in GitHub's Storage 
- > 
-> 🏆 199 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -28,14 +26,14 @@
 ```text
 🌞 Morning                653 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
 🌆 Daytime                1448 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
-🌃 Evening                12536 commits       █████████████████████░░░░   84.55 % 
+🌃 Evening                12537 commits       █████████████████████░░░░   84.55 % 
 🌙 Night                  190 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
 Monday                   1946 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
-Tuesday                  1941 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
+Tuesday                  1942 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
 Wednesday                1913 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
 Thursday                 2092 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
 Friday                   2179 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
@@ -73,7 +71,7 @@ Assembly                 1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ming-tsai/ming-tsai/master/assets/bar_graph.png)
 
 
- Last Updated on 19/06/2024 00:41:35 UTC
+ Last Updated on 20/06/2024 00:40:09 UTC
 <!--END_SECTION:waka-->
 
 </details>
