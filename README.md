@@ -104,11 +104,11 @@ Assembly                 1 repo              █░░░░░░░░░░�
 <a href="https://github.com/JayantGoel001">
     <img src="https://avatars.githubusercontent.com/u/54479676?u=52c05b3b0c1ec7fea0a4520334e5d93e9b02e22e&v=4" alt="Jayant Goel" width="60px" height="60px">
 </a>
-<a href="https://github.com/jayehernandez">
-    <img src="https://avatars.githubusercontent.com/u/13959651?u=7c7e8c32a1b6c838daca2b689376539288a8572a&v=4" alt="Jaye Hernandez" width="60px" height="60px">
-</a>
 <a href="https://github.com/gargakshit">
     <img src="https://avatars.githubusercontent.com/u/15605299?u=e424225b7795e522558a7812dd71443c4e6f3667&v=4" alt="Akshit Garg" width="60px" height="60px">
+</a>
+<a href="https://github.com/jayehernandez">
+    <img src="https://avatars.githubusercontent.com/u/13959651?u=7c7e8c32a1b6c838daca2b689376539288a8572a&v=4" alt="Jaye Hernandez" width="60px" height="60px">
 </a>
 <a href="https://github.com/jamesgeorge007">
     <img src="https://avatars.githubusercontent.com/u/25279263?u=4b3389d9cd2e2aa0eab21899cb7e5746a4889e31&v=4" alt="James George" width="60px" height="60px">
