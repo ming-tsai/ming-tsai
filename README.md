@@ -140,11 +140,11 @@ Assembly                 1 repo              █░░░░░░░░░░�
 <a href="https://github.com/mecm1993">
     <img src="https://avatars.githubusercontent.com/u/8043309?v=4" alt="Manuel Cepeda" width="60px" height="60px">
 </a>
-<a href="https://github.com/ChoukseyKhushbu">
-    <img src="https://avatars.githubusercontent.com/u/48558044?u=e5b8301423907004b7b020fccd5cf284eb78fa59&v=4" alt="Khushbu Chouksey" width="60px" height="60px">
-</a>
 <a href="https://github.com/BhuvaneshHingal">
     <img src="https://avatars.githubusercontent.com/u/58567847?u=a326a2c8d5dcd311130910db488f7732d24caf25&v=4" alt="Bhuvanesh Hingal" width="60px" height="60px">
+</a>
+<a href="https://github.com/ChoukseyKhushbu">
+    <img src="https://avatars.githubusercontent.com/u/48558044?u=e5b8301423907004b7b020fccd5cf284eb78fa59&v=4" alt="Khushbu Chouksey" width="60px" height="60px">
 </a>
 <a href="https://github.com/TGTGamer">
     <img src="https://avatars.githubusercontent.com/u/11413796?v=4" alt="Jonathan S" width="60px" height="60px">
