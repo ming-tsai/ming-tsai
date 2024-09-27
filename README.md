@@ -151,7 +151,7 @@ Assembly                 1 repo              █░░░░░░░░░░�
     <img src="https://avatars.githubusercontent.com/u/68538660?u=35b3e3a15aa2903462e37a1be3c0f47adbea101d&v=4" alt="Amisha Mohapatra" width="60px" height="60px">
 </a>
 <a href="https://github.com/vivmost">
-    <img src="https://avatars.githubusercontent.com/u/58110469?u=c1ea80d369577542525da58c9e2715e8dc42adef&v=4" alt="Vivek Singh" width="60px" height="60px">
+    <img src="https://avatars.githubusercontent.com/u/58110469?u=46b7af6f2ec5b4fa6dbac276acc5744b4acef8b6&v=4" alt="Vivek Singh" width="60px" height="60px">
 </a>
 
 <!--awesome-profiles:end-->
