@@ -78,11 +78,11 @@ Assembly                 1 repo              █░░░░░░░░░░�
 
 ### More awesome readme profiles <img align="top" src="https://media.giphy.com/media/1ZDCwrqow6vioQX4Yi/giphy.gif" width="30">
 <!--awesome-profiles:start-->
-<a href="https://github.com/DenverCoder1">
-    <img src="https://avatars.githubusercontent.com/u/20955511?u=5bbdbfe0199b05d6ca913fb799236c8beedcd192&v=4" alt="Jonah Lawrence" width="60px" height="60px">
-</a>
 <a href="https://github.com/anmol098">
     <img src="https://avatars.githubusercontent.com/u/15426564?u=5b0a7a4764c8aa9f554cb3dea4a3eae2b7b6a8ec&v=4" alt="Anmol Singh" width="60px" height="60px">
+</a>
+<a href="https://github.com/DenverCoder1">
+    <img src="https://avatars.githubusercontent.com/u/20955511?u=5bbdbfe0199b05d6ca913fb799236c8beedcd192&v=4" alt="Jonah Lawrence" width="60px" height="60px">
 </a>
 <a href="https://github.com/abhisheknaiidu">
     <img src="https://avatars.githubusercontent.com/u/55599878?u=31aa4c938c2478e2c2da657c48fdbd49d4324dec&v=4" alt="Abhishek Naidu" width="60px" height="60px">
