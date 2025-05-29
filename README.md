@@ -15,6 +15,8 @@
 
 > 📦 51.2 kB Used in GitHub's Storage 
  > 
+> 🏆 156 Contributions in the Year 2025
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 32 Public Repositories 
@@ -71,7 +73,7 @@ Assembly                 1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ming-tsai/ming-tsai/master/assets/bar_graph.png)
 
 
- Last Updated on 28/05/2025 00:59:33 UTC
+ Last Updated on 29/05/2025 00:59:48 UTC
 <!--END_SECTION:waka-->
 
 </details>
