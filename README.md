@@ -7,15 +7,13 @@
 <details><summary><strong>Waka Readme</strong></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 51.5 kB Used in GitHub's Storage 
  > 
-> 🏆 266 Contributions in the Year 2025
+> 🏆 267 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -23,39 +21,6 @@
  > 
 > 🔑 6 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                720 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
-🌆 Daytime                1519 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
-🌃 Evening                13189 commits       █████████████████████░░░░   84.45 % 
-🌙 Night                  190 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   2051 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
-Tuesday                  2053 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
-Wednesday                2010 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
-Thursday                 2201 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
-Friday                   2283 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
-Saturday                 2175 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
-Sunday                   2845 commits        █████░░░░░░░░░░░░░░░░░░░░   18.22 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/La_Paz
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -73,7 +38,7 @@ Assembly                 1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ming-tsai/ming-tsai/master/assets/bar_graph.png)
 
 
- Last Updated on 16/09/2025 00:54:42 UTC
+ Last Updated on 17/09/2025 00:53:30 UTC
 <!--END_SECTION:waka-->
 
 </details>
