@@ -13,7 +13,7 @@
 
 > 📦 51.7 kB Used in GitHub's Storage 
  > 
-> 🏆 2 Contributions in the Year 2026
+> 🏆 3 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -21,39 +21,6 @@
  > 
 > 🔑 6 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                720 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
-🌆 Daytime                1519 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
-🌃 Evening                13300 commits       █████████████████████░░░░   84.56 % 
-🌙 Night                  190 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   2067 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
-Tuesday                  2069 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
-Wednesday                2026 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
-Thursday                 2217 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
-Friday                   2299 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
-Saturday                 2190 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
-Sunday                   2861 commits        █████░░░░░░░░░░░░░░░░░░░░   18.19 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/La_Paz
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -71,7 +38,7 @@ Assembly                 1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ming-tsai/ming-tsai/master/assets/bar_graph.png)
 
 
- Last Updated on 03/01/2026 00:59:45 UTC
+ Last Updated on 04/01/2026 01:09:25 UTC
 <!--END_SECTION:waka-->
 
 </details>
