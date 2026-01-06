@@ -7,13 +7,15 @@
 <details><summary><strong>Waka Readme</strong></summary>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 51.7 kB Used in GitHub's Storage 
  > 
-> 🏆 3 Contributions in the Year 2026
+> 🏆 5 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -21,6 +23,39 @@
  > 
 > 🔑 6 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                720 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
+🌆 Daytime                1519 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
+🌃 Evening                13303 commits       █████████████████████░░░░   84.56 % 
+🌙 Night                  190 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   2067 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
+Tuesday                  2069 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
+Wednesday                2026 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
+Thursday                 2217 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
+Friday                   2300 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
+Saturday                 2191 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
+Sunday                   2862 commits        █████░░░░░░░░░░░░░░░░░░░░   18.19 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/La_Paz
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -38,7 +73,7 @@ Assembly                 1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ming-tsai/ming-tsai/master/assets/bar_graph.png)
 
 
- Last Updated on 04/01/2026 01:09:25 UTC
+ Last Updated on 06/01/2026 01:03:12 UTC
 <!--END_SECTION:waka-->
 
 </details>
