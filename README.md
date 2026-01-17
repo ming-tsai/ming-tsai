@@ -86,9 +86,6 @@ Assembly                 1 repo              █░░░░░░░░░░�
 <a href="https://github.com/anmol098">
     <img src="https://avatars.githubusercontent.com/u/15426564?u=5b0a7a4764c8aa9f554cb3dea4a3eae2b7b6a8ec&v=4" alt="Anmol Singh" width="60px" height="60px">
 </a>
-<a href="https://github.com/abhisheknaiidu">
-    <img src="https://avatars.githubusercontent.com/u/55599878?u=31aa4c938c2478e2c2da657c48fdbd49d4324dec&v=4" alt="Abhishek Naidu" width="60px" height="60px">
-</a>
 <a href="https://github.com/anuraghazra">
     <img src="https://avatars.githubusercontent.com/u/35374649?u=3125539259bebd2d8af05462a37f22a4fba763e4&v=4" alt="Anurag Hazra" width="60px" height="60px">
 </a>
