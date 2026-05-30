@@ -7,13 +7,15 @@
 <details><summary><strong>Waka Readme</strong></summary>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 52.1 kB Used in GitHub's Storage 
  > 
-> 🏆 176 Contributions in the Year 2026
+> 🏆 177 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -21,6 +23,39 @@
  > 
 > 🔑 6 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                783 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
+🌆 Daytime                1598 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
+🌃 Evening                13652 commits       █████████████████████░░░░   84.15 % 
+🌙 Night                  190 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   2130 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
+Tuesday                  2135 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+Wednesday                2085 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
+Thursday                 2280 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
+Friday                   2359 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
+Saturday                 2263 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
+Sunday                   2971 commits        █████░░░░░░░░░░░░░░░░░░░░   18.31 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/La_Paz
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -38,7 +73,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ming-tsai/ming-tsai/master/assets/bar_graph.png)
 
 
- Last Updated on 29/05/2026 02:15:20 UTC
+ Last Updated on 30/05/2026 02:10:38 UTC
 <!--END_SECTION:waka-->
 
 </details>
