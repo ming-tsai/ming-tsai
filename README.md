@@ -9,13 +9,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 52.7 kB Used in GitHub's Storage 
  > 
-> 🏆 375 Contributions in the Year 2026
+> 🏆 377 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -28,7 +28,7 @@
 ```text
 🌞 Morning                794 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
 🌆 Daytime                1611 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
-🌃 Evening                13871 commits       █████████████████████░░░░   84.20 % 
+🌃 Evening                13873 commits       █████████████████████░░░░   84.21 % 
 🌙 Night                  197 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
 ```
 📅 **I'm Most Productive on Sunday** 
@@ -36,9 +36,9 @@
 ```text
 Monday                   2174 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
 Tuesday                  2166 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
-Wednesday                2116 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
-Thursday                 2311 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
-Friday                   2400 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
+Wednesday                2116 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
+Thursday                 2312 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
+Friday                   2401 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
 Saturday                 2286 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
 Sunday                   3020 commits        █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
 ```
@@ -65,11 +65,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-C#                       6 repos             █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
-Vue                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
-HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
-Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+TypeScript               11 repos            █████████░░░░░░░░░░░░░░░░   34.38 % 
+C#                       6 repos             █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
+Vue                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
 ```
 
 
@@ -79,7 +79,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ming-tsai/ming-tsai/master/assets/bar_graph.png)
 
 
- Last Updated on 23/10/2026 02:37:26 UTC
+ Last Updated on 24/10/2026 02:35:27 UTC
 <!--END_SECTION:waka-->
 
 </details>
